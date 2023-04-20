@@ -1,0 +1,15 @@
+/Users/new/Desktop/recurs/task64/bin/Debug/net7.0/task64
+/Users/new/Desktop/recurs/task64/bin/Debug/net7.0/task64.deps.json
+/Users/new/Desktop/recurs/task64/bin/Debug/net7.0/task64.runtimeconfig.json
+/Users/new/Desktop/recurs/task64/bin/Debug/net7.0/task64.dll
+/Users/new/Desktop/recurs/task64/bin/Debug/net7.0/task64.pdb
+/Users/new/Desktop/recurs/task64/obj/Debug/net7.0/task64.csproj.AssemblyReference.cache
+/Users/new/Desktop/recurs/task64/obj/Debug/net7.0/task64.GeneratedMSBuildEditorConfig.editorconfig
+/Users/new/Desktop/recurs/task64/obj/Debug/net7.0/task64.AssemblyInfoInputs.cache
+/Users/new/Desktop/recurs/task64/obj/Debug/net7.0/task64.AssemblyInfo.cs
+/Users/new/Desktop/recurs/task64/obj/Debug/net7.0/task64.csproj.CoreCompileInputs.cache
+/Users/new/Desktop/recurs/task64/obj/Debug/net7.0/task64.dll
+/Users/new/Desktop/recurs/task64/obj/Debug/net7.0/refint/task64.dll
+/Users/new/Desktop/recurs/task64/obj/Debug/net7.0/task64.pdb
+/Users/new/Desktop/recurs/task64/obj/Debug/net7.0/task64.genruntimeconfig.cache
+/Users/new/Desktop/recurs/task64/obj/Debug/net7.0/ref/task64.dll
